@@ -1,3 +1,5 @@
+// main function
+
 $(function() {
 
   // Menu Responsive
